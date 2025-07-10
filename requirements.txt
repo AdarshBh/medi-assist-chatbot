@@ -1,0 +1,10 @@
+pypdf
+cohere
+sentence-transformers
+gradio
+pinecone
+langchain
+langchain-community
+langchain_pinecone
+langchain-huggingface
+python-dotenv
