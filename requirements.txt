@@ -1,7 +1,8 @@
+Flask
 pypdf
-cohere
+cohere==5.12
+langchain-cohere==0.4.3
 sentence-transformers
-gradio
 pinecone
 langchain
 langchain-community
